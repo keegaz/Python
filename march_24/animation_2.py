@@ -7,7 +7,7 @@ canvas.pack()
 #create polygon - first parameters are the four corners to the make square
 #there is also create_oval method
 
-canvas.create_polygon(10,10,10,150,150,150,150,10,fill="blue", tag='blueSquare')
+canvas.create_polygon(10,10,10,75,75,75,75,10,fill="blue", tag='blueSquare')
 
 #move the image
 
