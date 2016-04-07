@@ -1,6 +1,6 @@
 #Display Wacky Racers and animate it.
 
-my_dog = PhotoImage(file="purple.jpg")
+my_dog = PhotoImage(file="simp.gif")
 
 #Display a red square moving down the canvas window.
 from tkinter import *
